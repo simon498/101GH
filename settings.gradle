@@ -1,0 +1,2 @@
+rootProject.name = "101 Guest House"
+include ':app'
